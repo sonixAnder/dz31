@@ -1,0 +1,9 @@
+﻿  function.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\i don't know\i don't know\function.cpp(94,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\i don't know\i don't know\function.cpp(99,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\i don't know\i don't know\function.cpp(107,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\i don't know\i don't know\function.cpp(112,26): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\i don't know\i don't know\function.cpp(126,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  prog.cpp
+  Создание кода...
+  i don't know.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\i don't know\x64\Debug\i don't know.exe
